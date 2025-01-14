@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinaykr31
-- 👀 I’m interested in developing new things in me and my surrounding
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on unique projects
-- 📫 vinaykumar311292@gmail.com
+- 👀 I’m interested in Learning and creating.
+- 🌱 I’m currently learning MERN.
+- 💞️ I’m looking to collaborate on unique projects.
+- 📫 iamvinaykumar31.com
